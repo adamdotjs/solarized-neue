@@ -1,0 +1,21 @@
+{
+    "name": "solarized-neue",
+    "displayName": "Solarized Neue",
+    "description": "A modern take on Solarized",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Neue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Solarized Neue-color-theme.json"
+            }
+        ]
+    }
+}
